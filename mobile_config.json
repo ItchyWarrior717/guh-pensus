@@ -1,0 +1,18 @@
+{
+  // Required.
+  "version": "1.0",
+  "errors" : {
+    "default" : "Chrome OS is unable to connect to Verizon at this time. Please try again later. If the problem persists, contact Verizon Technical Support at (800) 786-8419. To ensure your call reaches the appropriate support team, please press # then 2 when prompted.",
+    "connectivity" : "Chrome OS is unable to connect to Verizon at this time. Please try again later. If the problem persists, contact Verizon Technical Support at (800) 786-8419. To ensure your call reaches the appropriate support team, please press # then 2 when prompted.",
+    "bad_connection_partial" : "Error: Bad Connection (partial activation). Chrome OS is unable to connect to Verizon at this time. Please try again later. If the problem persists, contact Verizon Technical Support at (800) 786-8419. To ensure your call reaches the appropriate support team, please press # then 2 when prompted.",
+    "bad_connection_activated" : "Error: Bad Connection (activated). Chrome OS is unable to connect to Verizon at this time. Please try again later. If the problem persists, contact Verizon Technical Support at (800) 786-8419. To ensure your call reaches the appropriate support team, please press # then 2 when prompted.",
+    "roaming_connection" : "Unable to connect at this time. Please try connecting later. Please connect via wifi and confirm you are in a Verizon Wireless Coverage area: www.verizonwireless.com/b2c/CoverageLocatorController. If the map shows your location in a coverage area, contact Verizon Technical Support at (800) 786-8419. To ensure your call reaches the appropriate support team, please press # then 2 when prompted.",
+    "no_evdo" : "Unable to connect at this time. Please try connecting later. Please connect via wifi and confirm you are in a Verizon Wireless Coverage area: www.verizonwireless.com/b2c/CoverageLocatorController. If the map shows your location in a coverage area, contact Verizon Technical Support at (800) 786-8419. To ensure your call reaches the appropriate support team, please press # then 2 when prompted.",
+    "roaming_activation" : "Cannot automatically activate your device while in a roaming coverage area.",
+    "roaming_partially_activated" : "Cannot automatically activate your device while in a roaming coverage area.",
+    "no_service" : "ChromeOS is unable to connect at this time due to insufficient coverage.",
+    "disabled" : "Mobile network connections are not currently enabled on this device.",
+    "no_device" : "Mobile network modem is not present.",
+    "already_running" : "Mobile network activation process is already running."
+  }
+}
